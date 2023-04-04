@@ -1,0 +1,424 @@
+#EXTM3U
+
+#EXTINF:-1 grupo-title="Nacional" tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="América" ​​tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t39.30808-6/323892085_5526129417496095_3261758999072757730_n.jpg ?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_ohc=DthQ7Kvhc2cAX-4Ncx7&tn=XjW5T13OOI29f8BT&_nc_ht=scontent.faep14-2.fna&oh=00_AfA7YIGbQ_v2jdLaC4SccvVqaNMqqHFf3YOWHvxHnvmskg&oe=63E6B369" group-title="Argentina",America
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpZZgDdDITKf45FSX32Dfbc/ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t1.18169-9/16864655_800483110103309_1165169006215794938_n. png?"
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJumncIxPriR5tkG_-bQMSAw/ts
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=640&q =75" group-title="Argentina",EL NUEVE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJi2WdddoU2cg5q3tCWyjOlY/ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.20/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a .png" group-title="Argentina", TELEFE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhYZznKAarjrsPcTPeXIPn0/ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px- Logo_de_eltrece_lanzado_es_2016.png" group-title="Argentina",EL TRECE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJthIklaJZE49NxOlWIbA_rQ/ts
+#EXTINF:-1 grupo-titulo="Nacional" tvg-logo="", LN+
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpZobelRrLhaLFkluhVA90Q/ts
+#EXTINF:-1 group-title="Nacional" tvg-logo="", INFORMACION PERIODISTICA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrb5EVZOmW7SaZWP1iYqO2s/ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo Noticias" tvg-logo="http://iptvglobal.site:25461/images/36fe58c34608d48fe1de338d2c55d2f5.png" group-title="Argentina",TN
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmTOa726udXvpyFq59YatDE/ts
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/360px-C5N_2017_Alternate .svg.png" group-title="Argentina",C5N
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJi4SPgB-mr64v7LnJV2FwTc/ts
+#EXTINF:-1 tvg-id="" tvg-name="Crónica" tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t39.30808-6/270237475_1692667181076627_8032483016758528422_n.jpg ?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=1&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=1SVeTwuLHJ0AX__iMWR&_nc_ht=scontent.faep14-2.fna&oh=00_AfBvkI4Z9r300IcC08QPyWOeOoz_1jCiNnx6yTt5oTETwA&oe=63E5F45F" group-title="Argentina",Cronica
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJn2LKTupf0uTkB3MVheV1Q4/ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t1.18169-9/15894350_10155748300044863_3233525193847795535_n. png?_nc_cat=1&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=gnmK993JdroAX_F56S0&_nc_ht=scontent.faep14-2.fna&oh=00_AfC8vQt-tG6hO_E71RZMU26O5l3kTS8-VE9mcsxdD3AsrQ&oe=640899A8" group-title="Argentina",Canal 26
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvAKgNie9uC9U66iOuXmzNU/ts
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://scontent.faep14-2.fna.fbcdn.net/v/t1.18169-9/15894350_10155748300044863_3233525193847795535_n.png ?_nc_cat=1&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=gnmK993JdroAX_F56S0&_nc_ht=scontent.faep14-2.fna&oh=00_AfC8vQt-tG6hO_E71RZMU26O5l3kTS8-VE9mcsxdD3AsrQ&oe=640899A8" group-title="Argentina",A24
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiiaBacG7Zr2OwLmKoWkRS8/ts
+#EXTINF:-1 tvg-name="AMERICA TV HD" tvg-logo="http://iptvglobal.site:25461/images/0d26996fa827a5214a7bbad20285ddf9.png" group-title="NACIONAL", AMERICA TV HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9OpkkzViD7Lhtv3QDkSdv0/ts
+#EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="NACIONAL", TV PUBLICA
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzWiGix7Vm0QZte9FO3U2qo/ts
+#EXTINF:-1 tvg-name="TV PUBLICA OPC. 2" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="NACIONAL", TV PUBLICA OPC. 2
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv3piuG3gXQMCfCbX51woS6Q/ts
+#EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="NACIONAL", EL NUEVE
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9rhM5ftn-L-8BKORCC6CEA/ts
+#EXTINF:-1 tvg-name="TELEFE FHD" tvg-logo="http://iptvglobal.site:25461/images/3a28f95b39fc5af9247ccc2379c9cd22.png" group-title="NACIONAL", TELEFE FHD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv7wLEg4zC4U4ZYU8T3_aPBk/ts
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" grupo- title="NACIONAL", EL TRECE
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv2hBoiMRBvFQTZRwOy7a2m4/ts
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="http://iptvglobal.site:25461/images/36fe58c34608d48fe1de338d2c55d2f5.png" group-title="NACIONAL", TN NOTICIAS
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxa1sV1EGfs8C1gLjtd1qho/ts
+#EXTINF:-1 tvg-name="C5N HD" tvg-logo="http://iptvglobal.site:25461/images/88ef29f9fac644eeb93354d704452e92.PNG" group-title="NACIONAL", C5N HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv_YTyHyDSb6dM7hfbapDp2I/ts
+#EXTINF:-1 tvg-name="CRONICA HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cronica-logo-png-transparent.png" group-title="NACIONAL ", CRÓNICA HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MN1Akuv3ckD_HdSZkChKU/ts
+#EXTINF:-1 tvg-name="CANAL 26 HD" tvg-logo="http://iptvglobal.site:25461/images/78f73b49c3faa367e42163f1272faa0f.png" group-title="NACIONAL", CANAL 26 HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv2mrPrgbV_1_5QmmXSzsau8/ts
+#EXTINF:-1 tvg-name="A24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title= "NACIONAL", A24 HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwM8CKxv3uRSCpthJ1Ne6_k/tsal.site
+#EXTINF:-1 tvg-id="" tvg-name="Revista Ciudad" tvg-logo="" group-title="Argentina",REVISTA CIUDAD
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJm6QroAdmOIagjVTDubeFHI/ts
+#EXTINF:-1 grupo-title="Nacional" tvg-logo="", TeleMax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-name="VOLVER HD" tvg-logo="https://revistaimagen.com.ar/wp-content/uploads/2016/07/LOGO_VOLVER-234x300.jpg" group-title="NACIONAL ", VOLVER HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvw0JD_L3mB85B_KtGf8ocXQ/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="argentina" tvg-logo="",Top de música
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="https://imgur.com/LKK6eko.jpg" group-title="Niños",PAKA PAKA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJgcUYWE6vk6mRpubORHHyWk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="NIÑOS",Cartoonito
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoiv4eLw3TqdITQdEtmYwNw/ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney channel" tvg-logo="" group-title="NIÑOS",Disney channel
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqAqyvJ1nRu87jjQx-SZQ54/ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="NIÑOS",Disney Junior
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmd5Jqlz_DGIvLa-y6OGuBU/ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="NIÑOS",Nickelodeon
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJr15ghgwGv2wc1SNi1dlkpc/ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="Argentina",Nick JR
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJunRW_6hxuGjcmUlxTOle-k/ts
+#EXTINF:-1 tvg-id="" tvg-name="nick adolescente" tvg-logo="" group-title="Argentina",nick adolescente
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtu-dCJPdKm43E3FrbBCqaI/ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="NIÑOS",Tooncast
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmgD9a7NDMVv7UHNgK7aYCI/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://sin_imagen/9/logo/LA/LA018CartonNetwork.png" group-title="NIÑOS",Cartoon Network
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlBeEwCbfujeXT2JABeLQ1o/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 2" tvg-logo="http://sin_imagen/9/logo/LA/LA018CartonNetwork.png" group-title="NIÑOS",Cartoon Red 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqstBy2ilJ92LBr7PQPnPN4/ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="NIÑOS",DREAMWORKS
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnfIEdf6oMuGPuf0NhdJaYY/ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids " tvg-logo="http://sin_imagen/9/logo/LA/LA031DiscoveryKids.png" group-title="NIÑOS",Discovery Kids
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiibJZdpVbNZSLUFcOhcCI8/ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="" group-title="NIÑOS",ZOO MOO
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJuPOeEW9f2Uk86FZyEP2FJs/ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="http://sin_imagen/9/logo/LA/LA084NicktoonsLA.png" group-title="NIÑOS",Nick Music
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJldfMHe56d0agAxCF0B-zU/ts
+#EXTINF:-1 tvg-id="" tvg-name="BEBE TV" tvg-logo="" group-title="NIÑOS",Baby TV
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnQVhkRViQRYRSt3BdyKwbE/ts
+EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="" group-title="NIÑOS",BITME
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjRt2DzjL213ysGLi4JlAzw/ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN Español" tvg-logo="" group-title="Mundo",CNN EN Español
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiH9JF76V81NQj-VXIssUis/ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Mundo",CNN
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiGk6IlJpYOAM8gxv6NZmrA/ts
+#EXTINF:-1 tvg-id="" tvg-name="CEntral Comedy" tvg-logo="" group-title="Mundo",CEntral Comedy
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJp5C6xUJTE2vArZyKemMjIM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dinamita" tvg-logo="" group-title="Cine",Cine Dinamita
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjdzdelrdbH_eh6Q9d6mB3Q/ts
+#EXTINF:-1 tvg-id="" tvg-name="Hgtv" tvg-logo="" group-title="Mundo",Hgtv
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhyVXCfPwMZLXK0QexLnu64/ts
+#EXTINF:-1 tvg-id="" tvg-name="Amc" tvg-logo="" group-title="CINE",Amc
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmwTpZje3H-XUvuPcAoh6fk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="" group-title="Argentina",Encuentro
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJgeGMftdGuyR8RnngdysFmY/ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="" group-title="DEPORTES",DEPORTV
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJn6kvsNkEAR_x5zjHZSsrcw/ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="" group-title="DEPORTES",Directv Sports
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpQe3lul5ok4nRiVYoCpyvs/ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="" group-title="DEPORTES",Directv Sports 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpuQ0M1YxO4Q5qMFK8x5zZ0/ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Plus" tvg-logo="" group-title="DEPORTES",DIRECTV Sports Plus
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtNU21tSs-lFV6FnTTQjTCw/ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="" group-title="DEPORTES",TNT Sports
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJh3Cyh3WBTsDlIBQmM9wr2Q/ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://sin_imagen/9/logo/LA/LA019CDFPremuim.png" group-title="DEPORTES",TNT DEPORTES 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnbZpe292-q0oZIad5QuIGs/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="" group-title="DEPORTES",ESPN PREMIUM
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmBGYLYxrMwmZC5e0qEMEY8/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="DEPORTES",ESPN HD
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJr6eyd-N1kwdUoAmMGwCMSQ/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://sin_imagen/9/logo/LA/LA046ESPN2.png" group-title="DEPORTES",ESPN 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJuIa89feItYTr8zSWiJD47w/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://sin_imagen/9/logo/LA/LA047ESPN3.png" group-title="DEPORTES",ESPN 3
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJquHQvxiZAiwkHb-TjOF9FI/ts
+#EXTINF:-1 tvg-id="" tvg-name=ESPN 2 HD" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsoJMfY5JzWxea0eUlJ2HdI/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="DEPORTES",ESPN 3 HD
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJkEI967z0mM6YstzVI0c9Og/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="" group-title="DEPORTES",ESPN EXTRA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjt5MaDdeonEykKalUrsE4o/ts
+#EXTINF:-1 tvg-id="" tvg-name="Ganar Deportes" tvg-logo="http://sin_imagen/9/logo/LA/LA077WinSports.png" group-title="DEPORTES",Ganar Deportes
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsE1jC2jj31ivRCIU08LmdY/ts
+#EXTINF:-1 tvg-id="" tvg-name="MX TUDN" tvg-logo="" group-title="DEPORTES",MX TUDN
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiDuPVZLH3zM2x8KymeDLXk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="http://sin_imagen/9/logo/LA/LA058FoxSports1.png" group-title="DEPORTES",Fox Deportes 1
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhsAmqjAGRodG5C40UrMuG0/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="http://sin_imagen/9/logo/LA/LA059FoxSports2.png" group-title="DEPORTES",Fox Deportes 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmov8lxrZUv-bEyUz8CV784/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="http://sin_imagen/9/logo/LA/LA060FoxSports3.png" group-title="DEPORTES",Fox Deportes 3
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiVROMeYbSCVZdGQSFAggfk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="" group-title="DEPORTES",Fox DePortes
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJv2fEvNgWtvPqWk4iHPIHBU/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJkLdnNusjFCcOTMwsSPb_X8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="" group-title="DEPORTES",Espn 4
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhCxaM4wZo0cumU0qAdp4mc/ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="" group-title="DEPORTES",Movistar La Liga
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJk4Ry3Yoiuk3TTGGIv41jJE/ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="DEPORTES",TYC Sports
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmEVhuAp5sxBCSh1d1YGk-k/ts
+#EXTINF:-1 tvg-id="" tvg-name="UfC" tvg-logo="" group-title="DEPORTES",Ufc
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiRCC6OOXbO1HgiQ6RMZ3qs/ts
+#EXTINF:-1 tvg-id="" tvg-name="Euro SPORTS" tvg-logo="" group-title="DEPORTES", Euro Sports
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvIeOckcjBxPb1q5ChU25o8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tenis" tvg-logo="" group-title="DEPORTES",Canal Tenis
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsiWMqhSgxJJ9LBoECrkSzM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOLF" tvg-logo="" group-title="DEPORTES",Canal GOLF
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJs4pjqx21wx-GXMPoVSXDvw/ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="http://sin_imagen/9/logo/LA/LA023ClaroSports.png" group-title="DEPORTES",Claro Sports
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJimEM441EkgbSb-duIbxPGk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Nfl" tvg-logo="http://sin_imagen/9/logo/LA/LA416MoviePlexFHD.png" group-title="DEPORTES",Nfl
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhyamcIcnW3Ri-CYTQPLouU/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports en Español" tvg-logo="" group-title="DEPORTES",BeIN Sports en Español
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJi_ywa0mTjv0LgublC_L2qk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports xtra" tvg-logo="" group-title="DEPORTES",Bein Sports xtra
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjGnbyEjDpyBpFhS76jc_JI/ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="" group-title="DEPORTES",NBA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoGe9IRMXgPpv3deOGg9QP8/ts
+#EXTINF:-1 tvg-id="" tvg-name="barsa tv" tvg-logo="" group-title="DEPORTES",barsa tv
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsV_FiRhWo04zudtGpcJNHk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-logo="" group-title="DEPORTES", Real Madrid
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJuSaODd3X1pGR0ikUkN2B3A/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fs1" tvg-logo="" group-title="DEPORTES", Fs1
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvLU1Lbb3p3zKZFLM0qAaiU/ts
+#EXTINF:-1 tvg-id="" tvg-name="Fs2" tvg-logo="" group-title="DEPORTES", Fs2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpQaRKJHxrPTjakDdeCrVt8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Play" tvg-logo="" group-title="DEPORTES", Gol Play
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJofp1uqs1ZjKeEzRqtbNMak/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinear" tvg-logo="" group-title="CINE",Cinear
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjpRRuki1AmZnkoszC_HpAA/ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E LA" tvg-logo="http://sin_imagen/9/logo/LA/LA001A&ELA.png" group-title="Cine",A&E LA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJv5ifKHp-GLlfCeTx6XtSMo/ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://sin_imagen/9/logo/LA/LA002AMCLA.png" group-title="Cine",AMC
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmwTpZje3H-XUvuPcAoh6fk/ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="http://sin_imagen/9/logo/LA/LA004AXNLA.png" group-title="Cine",AXN
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrGk6dthuwQVwid8tjOiBF0/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="CINE",Cinecanal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiTH-GOJSktkn1W3GLadJi8/ts
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal Hd" tvg-logo="http://sin_imagen/9/logo/LA/LA020CineCanal.png" group-title="CINE",CineCanal Hd
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqYti9pWoUEexYULpipQF5A/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="CINE",Cinemax
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJunEAxgSivOP5ly_LWjjEbU/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJs8FSmureVtLyTJ64mNnJnA/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlo4xibFSTSlKEMu0M_d8dc/ts
+#EXTINF:-1 tvg-id="" tvg-name="Firma de HBO" tvg-logo="" group-title="CINE",Firma de HBO
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJk5qCP21jhik6z1EXEVulsg/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="CINE",HBO Family
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoA7Rtv95U5m6t3hOaDOuvM/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="http://sin_imagen/9/logo/LA/LA354HBOPlusFHD.png" group-title="CINE",HBO+
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoUWFVHQbLYFxSa5TtyvhpU/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME" tvg-logo="http://sin_imagen/9/logo/LA/LA356HBOEastHD.png" group-title="CINE",HBO Extreme
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJg7P_p0rBBzDxs1xoFiA4WQ/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO mundi" tvg-logo="" group-title="CINE",HBO Mundi
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJq_s5le-cOatmcKsvXyWuqU/ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO pop" tvg-logo="" group-title="CINE",HBO pop
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlIffQgTc47CgsrrIT_VRFk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="CINE",Paramount
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjzzTGIRL_ndZaw5IwVX8-0/ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="CINE",Sony
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJouDXQNlctLdOIBNJMbQKMk/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sony" tvg-logo="http://sin_imagen/9/logo/LA/LA086SONY.png" group-title="CINE",Cine Sony
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtZMDKDwhmb9hGb1TTLUDpE/ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPACIO" tvg-logo="" group-title="CINE",ESPACIO
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpZmrQn8v0EV5692IYn13HQ/ts
+#EXTINF:-1 tvg-id="" tvg-name="Estudio Universal" tvg-logo="" grupo-título="CINE",Estudio Universal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnzXFAAmfXSKXw70dFAQdHA/ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjzTiGbjfzS3dcHH7AFvFCw/ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="CINE",TNT Series
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlvZ8jYVYblAlkpXAsoi3iU/ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="CINE",Universal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvcvdsQCgUXxbPXSigKo520/ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="" group-title="CINE",Universal Crime
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJi2u5gAvExOzh-YS9jsIfM0/ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Universal" tvg-logo="http://sin_imagen/9/logo/LA/LA054FoxClassic.png" group-title="CINE",Comedia Universal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpGgSRd8ksaIZ0t2dNS_g6E/ts
+#EXTINF:-1 tvg-id="" tvg-name="Estreno Universal" tvg-logo="" group-title="CINE",Estreno Universal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrTgWf8DT39rrTT5xoLxVPI/ts
+#EXTINF:-1 tvg-id="" tvg-name="Realidad Universal" tvg-logo="" group-title="CINE",Realidad Universal
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJk_-sBQLym3b5DKQ-g34GKE/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine latino" tvg-logo="http://sin_imagen/9/logo/LA/LA021CineLatino.png" group-title="CINE",Cine Latino
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmNRfql9-61WkMQYA3aiP5c/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+" tvg-logo="http://sin_imagen/9/logo/LA/LA022CineMax.png" group-title="CINE",Cine+
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJg06OBO6MkbOsmCwWSyfWR0/ts
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://sin_imagen/9/logo/LA/LA026DePelicula.png" group-title="CINE",De Pelicula
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiIHkfog2_FMF0DX57QhahY/ts
+#EXTINF:-1 tvg-id="" tvg-name="Depelicula +" tvg-logo="" group-title="CINE",DePelicula +
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmPnXI1aVlxaBh5bmeiuNB4/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine y arte" tvg-logo="http://sin_imagen/9/logo/LA/LA049FilmZone.png" group-title="CINE",Película & arte
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiMe8RyMJQevcYbRRDcgzfY/ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Cine",TCM
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJkjLB9fGrj1jwqgGzJ40f1Q/ts
+#EXTINF:-1 tvg-id="" tvg-name="Clover Channel" tvg-logo="" group-title="CINE",Clover Channel
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlVoSuugFp_X0RnZYUd3lMw/ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance" tvg-logo="" group-title="CINE",Sundance
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoHGF_JloN34KS1D9DcxdZg/ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal STAR" tvg-logo="http://sin_imagen/9/logo/LA/LA055FoxLA.png" group-title="CINE",Canal STAR
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJscOE_ffyyv4frXWxcXMAW4/ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://sin_imagen/9/logo/LA/LA062Warner.png" group-title="Latino",Warner
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmJGJ5Yf1ZHVo8OVZpP7QHw/ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dinamita" tvg-logo="" group-title="CINE",Cime Dinamita
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjdzdelrdbH_eh6Q9d6mB3Q/ts
+#EXTINF:-1 tvg-id="" tvg-name="Dhe" tvg-logo="" group-title="CINE",DHE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjGu17ekdMWHzAp0V-FY5hE/ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="CINE",Lifetime
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJg8jeSTP1HTPKSQ1La6Lsy8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="" group-title="CINE",Golden Plus
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqccOmaIbPsp9-PQyRGZQLU/ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="http://sin_imagen/9/logo/LA/LA064GoldenEdge.png" group-title="CINE",Golden Edge
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlzJ-NtDgY-TR9W608CO8_M/ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://sin_imagen/9/logo/LA/LA065Golden.png" group-title="CINE",Golden
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnvUE1CS1JCzedfHC_TfxhM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Estreno dorado" tvg-logo="" group-title="CINE",Estreno dorado
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsXeigDnoc3jqZHo9MiUTuw/ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://sin_imagen/9/logo/LA/LA073I-SAT.png" group-title="CINE" ,ME SENTÉ
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpW9M-0-zWqRiB1tv2UjtTM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Europa" tvg-logo="" group-title="Mundo",Europa
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlj6QLbEwVSDxLviE3MEUTA/ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="Mundo",FOX
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrHhn6lOVW8zNTJyZIXZ8yc/ts
+#EXTINF:-1 tvg-id="" tvg-name="ID de descubrimiento" tvg-logo="" group-title="Mundo",ID de descubrimiento
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhboLeH7OpDaXkfwWMKUY8/ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Mundo",FX
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJjZferT0-6-AEjV-ThjHdf8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="" group-title="Mundo",Gourmet
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlBSHikbF2BmLaYdMBM-OS4/ts
+#EXTINF:-1 tvg-id="" tvg-name="REDES ALIMENTARIAS" tvg-logo="" group-title="Mundo",REDES ALIMENTARIAS
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJurSsCJTcPpUt5-vwDKnreY/ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Mundo",H2
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJkfmKk9aQlUv3iYvOv7gdrQ/ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="" group-title="Mundo",Historia
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJunoF7NhCskF-ECHVXdRKeY/ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://sin_imagen/9/logo/LA/LA003AnimalPlanetLA.png" group-title="Mundo",Animal Planet
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvCNB9USLBSU7peKsff-UeM/ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Mundo",NAT GEO
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhTCcMwRQEB1pP_cjqhvNtE/ts
+#EXTINF:-1 tvg-id="" tvg-name="GARAJE" tvg-logo="" group-title="Mundo",GARAJE
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJsVs23q1XFZke9Ulv0TenhY/ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theatre" tvg-logo="" group-title="Mundo",Discovery Theatre
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJkHJBA4KZzrP1pKjnQrLAac/ts
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="Mundo",Mas Chic
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiKJqSL9lBjqGB9WyQA3GQU/ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Música",MTV
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJruyHnz77Yd8Lyj_6xQF70E/ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="Música",MTV Hits
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJr_th1awa7TdJdt7_ouu4pg/ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV live" tvg-logo="" group-title="Música",MTV Live
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmxtcMQSxRv9KH3I9X8IkFM/ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="Música",HTV
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJiqvjCn1AWKu0fqZvIBzIpc/ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleHit" tvg-logo="" group-title="Música",TeleHit
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhmfO9kkYAx4HxkHb5wxN6c/ts
+#EXTINF:-1 tvg-id="" tvg-name="Volver" tvg-logo="" group-title="Argentina",Volver
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJr20bV_ik6od7t-H4lOeM30/ts
+#EXTINF:-1 tvg-name="GOLDEN PLUS MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to -ancho-abajo/300?cb=20191215194002&path-prefix=es" group-title="CINE", GOLDEN PLUS MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv7SypTFQKW-oujYqWdq_0q8/ts
+#EXTINF:-1 tvg-name="GOLDEN PREMIER" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/Golden_premier.png" group-title="CINE", GOLDEN PREMIER
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv_7-T18tB2VHIC_QbX2BpHA/ts
+#EXTINF:-1 tvg-name="GOLDEN CO" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/496px-Logo_Golden_TV.svg.png" group-title="CINE", CO DE ORO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9DxAmxNtnhCpFkv_dGJgnc/ts
+#EXTINF:-1 tvg-name="MX DORADO" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/496px-Logo_Golden_TV.svg.png" group-title="CINE", MX DORADO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8-adRS7S-78ahl-SBs9XdQ/ts
+#EXTINF:-1 tvg-name="HBO CO" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypZpXXawNUYlYDfQM1Oz25CK69f_0oqtkb7LF3H7eLg0A.png" group-title="CINE", HBO CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvz6T7flldA_aUUKbr2XwJgk/ts
+#EXTINF:-1 tvg-name="HBO MX" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypZpXXawNUYlYDfQM1Oz25CK69f_0oqtkb7LF3H7eLg0A.png" group-title="CINE", HBO MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv6U5wLSX--wS3B_LJv6jmD0/ts
+#EXTINF:-1 tvg-name="HBO 2CO" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_2.png" group-title="CINE", HBO 2CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzLn9ScJEVSWvzRQuOdKbdU/ts
+#EXTINF:-1 tvg-name="HBO 2 MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_2.png" group-title="CINE", HBO 2 MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwZ5cuzyzTAckZt9IFb7--A/ts
+#EXTINF:-1 tvg-name="HBO FAMILY CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILIA CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5_VHH4pPJJZrZP4SX8NfFo/ts
+#EXTINF:-1 tvg-name="HBO FAMILY MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO MX FAMILIAR
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxPqJUYF1vYzcT6imIml-qA/ts
+#EXTINF:-1 tvg-name="HBO MUNDI CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png " group-title="CINE", HBO MUNDI CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzcBlGW_vaVv3aEQa9LD6Zo/ts
+#EXTINF:-1 tvg-name="HBO MUNDI MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png " group-title="CINE", HBO MUNDI MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwPNW_7yzUYWZJnUakjXkPo/ts
+#EXTINF:-1 tvg-name="HBO PLUS CO" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_plus.png" group-title="CINE", HBO PLUS CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8HdJ4wltDt52cdiv7k9K9Y/ts
+#EXTINF:-1 tvg-name="HBO PLUS MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_plus.png" group-title="CINE", HBO PLUS MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv6i--3tPrGsr683HeD5aljA/ts
+#EXTINF:-1 tvg-name="HBO POP MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE", HBO POP MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv2aVzy5FkESWiE4nefSXSw8/ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png " group-title="CINE", HBO SIGNATURE CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5sYGZc2-_e8MSlugVPzo5M/ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png " group-title="CINE", HBO SIGNATURE MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwYLjUmscxc9dcyB8ccijo8/ts
+#EXTINF:-1 tvg-name="HBO XTREME CO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE", HBO EXTREMO CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzKApOpN-GFnYmgvW4_BYmE/ts
+#EXTINF:-1 tvg-name="HBO XTREME MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE", HBO XTREME MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv7CMml1NMfHuEOzHd4bEFak/ts
+#EXTINF:-1 tvg-name="I-SAT MX" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp9w87UMdWRAOux5vhaUjhjLbOUr4-9LtFVV3V8WcY2ug.png" group-title="CINE", I-SAT MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzcWFcv2Jpq7s-83WcZgktg/ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL CO" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title=" CINE", PARAMOUNT CHANNEL CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv12tC1f-AVJmZJDtngM-fSQ/ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL MX" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title=" CINE", CANAL PARAMOUNT MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1PgewQ1gujQ1FNucfg0zOA/ts
+#EXTINF:-1 tvg-name=" PARAMOUNT NETWORK" tvg-logo="http://dalepley.club:8080/images/XOTAqLuQJ5MJD6nGcVjx3-hyt1mTpXOJjv6AVJQxT21r6JJWOCuNneqza46s6gJJ8ZvWHqy5JCTueQNKpdYA6u-CcvNB4v5W1fXeBslwyL8.png" group-title="CINE", PARAMOUNT NETWORK
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv4iwgiynBOVh-Nqx3zUVfCA/ts
+#EXTINF:-1 tvg-name="SONY CO" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE", SONY CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv44yLonElFSWMqRHcxGwu5g/ts
+#EXTINF:-1 tvg-name="SONY MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE", SONY MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8BprUaSvtqrdfNqNDMTAGg/ts
+#EXTINF:-1 tvg-name=" SPACE CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CINE", ESPACIO CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv_edBJwyQmIa72EOnDozgJU/ts
+#EXTINF:-1 tvg-name="SYFY CO" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/syfy.png" group-title="CINE", SYFY CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv3bsa8wfqXBIF57j4Rma0zc/ts
+#EXTINF:-1 tvg-name="SYFY MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/syfy.png" group-title="CINE", SYFY MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxRP3_XHCAbwkwD5a4L98do/ts
+#EXTINF:-1 tvg-name="TCM CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="CINE", TCM CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv2-5QRr-4LCnQ1Fs0nJoxi8/ts
+#EXTINF:-1 tvg-name="TCM MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="CINE", TCM MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5FahUtYq53FQe5dqnRd6zk/ts
+#EXTINF:-1 tvg-name="TNT MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_HD.png" group-title="CINE", TNT MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv95EBGPQ_7MxXfa6RnQvQGg/ts
+#EXTINF:-1 tvg-name="TNT SERIES CO" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsIhJvFdcqStc7TcaEz3LYiZ61CiP2TfQ7-JPiNhg2mwg.png" group-title="CINE", TNT SERIES CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8hM-JfGYy7tF6_DgwuiURM/ts
+#EXTINF:-1 tvg-name="TNT SERIES MX" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsIhJvFdcqStc7TcaEz3LYiZ61CiP2TfQ7-JPiNhg2mwg.png" group-title="CINE", TNT SERIES MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9NKi0CJT_za4ww76gNLeac/ts
+#EXTINF:-1 tvg-name="CANAL UNIVERSAL CO" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/universal.png" group-title="CINE", CANAL UNIVERSAL CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv6-AsOp-MWucg0y5IDaycfs/ts
+#EXTINF:-1 tvg-name="CANAL UNIVERSAL MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/universal.png" group-title="CINE", CANAL UNIVERSAL MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv_DiJ6w4Fb5HsCXyYSsjDBw/ts
+#EXTINF:-1 tvg-name="ESTUDIO UNIVERSAL CO" tvg-logo="https://www.jumangistv.com/logos/universal.png" group-title="CINE", ESTUDIO UNIVERSAL CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvynsJGm4yBUQmJXC1azdemI/ts
+#EXTINF:-1 tvg-name="ESTUDIO UNIVERSAL MX" tvg-logo="https://www.jumangistv.com/logos/universal.png" group-title="CINE", ESTUDIO UNIVERSAL MX
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv25pQKBG3yO6vE3Ca6WE39U/ts
+#EXTINF:-1 tvg-name="COMEDIA UNIVERSAL" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.COMEDIA_UNIVERSAL.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="CINE", COMEDIA UNIVERSAL
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5mdYom7RSMTF16WXEHWvng/ts
+#EXTINF:-1 tvg-name="CRIMEN UNIVERSAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path- prefix=es" group-title="CINE", DELITO UNIVERSAL
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxH44v1WHQUa7TfNHO3yWm0/ts
+#EXTINF:-1 tvg-name="ESTRENO UNIVERSAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path- prefix=es" group-title="CINE", ESTRENO UNIVERSAL
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwrhwc_nn0bRahoXNQL6Jdw/ts
+#EXTINF:-1 tvg-name="STARZ" tvg-logo="https://mma.prnewswire.com/media/1909244/LIONSGATE_Starz_Logo.jpg?p=facebook" group-title="CINE", STARZ
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv5QN74oL14aJuvjbEKrsoSI/ts
+#EXTINF:-1 tvg-name="CINE STARZ" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC78GPT7Hgk8eJIGRjJ-fIU-.png" group-title="CINE", CINE STARZ
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv_UisApfF7l-GFSrZYyh27s/ts
+#EXTINF:-1 tvg-name="STARZ ENCORE HD" tvg-logo="https://www.dlf.pt/dfpng/middlepng/265-2657636_transparent-starz-png-starz-encore-channel-logo-png .png" group-title="CINE", STARZ ENCORE HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8RIUOmMzbx4niK5CmAKNLM/ts
+#EXTINF:-1 tvg-name="STARZ ESTE" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC5zdgghNXuWXbvowxA7gx0b.png" group-title="CINE", STARZ ESTE
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv3uAbuzeFtvGBlgu7fwgtvA/ts
+#EXTINF:-1 tvg-name=" STARZ ENCORE SUSPENSE" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC6bUtjN8F8oXwoj69iB1GlZZD20bjz5y6gRH0iJuRvCZQ.png", group STARZ ENCORE SUSPENZ="title"
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv2ko6uRw8tvJaKjXUBbrDJ0/ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL CO" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yokv57Z7fLRDYU_MydS-PL2Uj03TBj_p7FpVWVp1sxPEQ.png" group-title="CINE CHANNEL CO", WARNER CHANNEL CO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8LOK6GtVPNSPDGeNZ4RU2g/ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL MX" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yokv57Z7fLRDYU_MydS-PL2Uj03TBj_p7FpVWVp1sxPEQ.png" group-title="CINE MX", WARNER CHANNEL
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv3T91au3y0KmiLuYHHRgwgk/ts
+#EXTINF:-1 tvg-name="MOVIE CLUB HD" tvg-logo="https://student-activity.binus.ac.id/himsi/wp-content/uploads/sites/18/2020/02/logo -movie-club-vertical.png" group-title="CINE", MOVIE CLUB HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxUTZ4JlVElW-TNQ1UMjyrY/ts
+#EXTINF:-1 tvg-name="VEVO 80's" group-title="MÚSICA", VEVO 80's
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvyAS_o8YB071iZnBbOJUqf8/ts
+#EXTINF:-1 tvg-name="VEVO 90's" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/VEVO.png" group-title="MÚSICA", VEVO 90's
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv8KMBsHq51WZaqJA9PflzzY/ts
+#EXTINF:-1 tvg-name="PAÍS VEVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png" group-title="MÚSICA", PAÍS VEVO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv-cn3MGPTesHFsO3r3vXnao/ts
+#EXTINF:-1 tvg-name="VEVO HIP HOP" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoHipHop.png" group-title=" MÚSICA", VEVO HIP HOP
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzRVv6E4IlVZR2pDnFhM2V4/ts
+#EXTINF:-1 tvg-name="VEVO LATINO" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoLatino.png" group-title="MÚSICA ", VEVO LATINO
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv11RRAr_iCjyU2Zc5EfDdyQ/ts
+#EXTINF:-1 tvg-name="VEVO POP" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/VevoPop.png" group-title="MÚSICA ", VEVO POP
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwtzq7x8dM0tKeumk_rrFNI/ts
+#EXTINF:-1 tvg-name="VEVO R&B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png" group-title="MÚSICA", VEVO R&B
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv98xEUb6BIhFMlg9Egkemgk/ts
+#EXTINF:-1 tvg-name="VEVO REGGAETON T TRAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg. png" group-title="MÚSICA", VEVO REGGAETON T TRAP
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv6hJlzXeJZb11H_iZ5OR-oU/ts
+#EXTINF:-1 tvg-name=" VH1 +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="MÚSICA", VH1 +
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv7nBwe-N9CJPyySnVGO9qio/ts
+#EXTINF:-1 tvg-name="VH1 CLASSIC" tvg-logo="https://i.imgur.com/uqgicca.png" group-title="MÚSICA", VH1 CLASSIC
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv7qQ7gnewJkBBtEuxSOhKkU/ts
