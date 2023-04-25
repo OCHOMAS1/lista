@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1,TV PERU
+http://190.108.85.114:8000/play/a06k/index.m3u8
+#EXTINF:-1,AmØrica Televisiðn
+http://190.108.85.114:8000/play/a06h/index.m3u8
+#EXTINF:-1,ATV
+http://190.108.85.114:8000/play/a06m/index.m3u8
+#EXTINF:-1,Latina
+http://190.108.85.114:8000/play/a06f/index.m3u8
+#EXTINF:-1,GLOBAL
+http://190.108.85.114:8000/play/a06n/index.m3u8
+#EXTINF:-1,Golden
+http://190.108.85.114:8000/play/a00x/index.m3u8
+#EXTINF:-1,Panamericana
+http://190.108.85.114:8000/play/a06i/index.m3u8
+#EXTINF:-1,AE Mundo
+http://190.108.85.114:8000/play/a09m/index.m3u8
+#EXTINF:-1,ATV cla
+http://190.108.85.114:8000/play/a0a4/index.m3u8
+#EXTINF:-1,AXN
+http://190.108.85.114:8000/play/a0ah/index.m3u8
+#EXTINF:-1,America TV PY
+http://190.108.85.114:8000/play/a0a9/index.m3u8
+#EXTINF:-1,AmericaTV cla
+http://190.108.85.114:8000/play/a0a2/index.m3u8
+#EXTINF:-1,Animal Planet
+http://190.108.85.114:8000/play/a09d/index.m3u8
+#EXTINF:-1,BabyFirst
+http://190.108.85.114:8000/play/a08n/index.m3u8
+#EXTINF:-1,CMD
+http://190.108.85.114:8000/play/a0gw/index.m3u8
+#EXTINF:-1,CNN Chile
+http://190.108.85.114:8000/play/a08d/index.m3u8
+#EXTINF:-1,CNN Espanol
+http://190.108.85.114:8000/play/a08r/index.m3u8
+#EXTINF:-1,CNN Español
+http://190.108.85.114:8000/play/a0g8/index.m3u8
+#EXTINF:-1,Canal Estrellas
+http://190.108.85.114:8000/play/a09q/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://190.108.85.114:8000/play/a08g/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.108.85.114:8000/play/a00t/index.m3u8
+#EXTINF:-1,Cinecanal
+http://190.108.85.114:8000/play/a088/index.m3u8
+#EXTINF:-1,Cinemax
+http://190.108.85.114:8000/play/a011/index.m3u8
+#EXTINF:-1,Cinemax
+http://190.108.85.114:8000/play/a0af/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://190.108.85.114:8000/play/a09c/index.m3u8
+#EXTINF:-1,Discovery ID
+http://190.108.85.114:8000/play/a09v/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://190.108.85.114:8000/play/a08q/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.108.85.114:8000/play/a0as/index.m3u8
+#EXTINF:-1,Disney Jr
+http://190.108.85.114:8000/play/a093/index.m3u8
+#EXTINF:-1,E Entertainment
+http://190.108.85.114:8000/play/a09f/index.m3u8
+#EXTINF:-1,ESPN
+http://190.108.85.114:8000/play/a00w/index.m3u8
+#EXTINF:-1,ESPN
+http://190.108.85.114:8000/play/a09i/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.108.85.114:8000/play/a096/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://190.108.85.114:8000/play/a0hx/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.108.85.114:8000/play/a0au/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.108.85.114:8000/play/a0a5/index.m3u8
+#EXTINF:-1,Enlace
+http://190.108.85.114:8000/play/a08l/index.m3u8
+#EXTINF:-1,Esne TV
+http://190.108.85.114:8000/play/a0at/index.m3u8
+#EXTINF:-1,FX
+http://190.108.85.114:8000/play/a0aj/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://190.108.85.114:8000/play/a00v/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://190.108.85.114:8000/play/a09r/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://190.108.85.114:8000/play/a0gg/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://190.108.85.114:8000/play/a09s/index.m3u8
+#EXTINF:-1,GOLPERU
+http://190.108.85.114:8000/play/a0fw/index.m3u8
+#EXTINF:-1,Gol TV
+http://190.108.85.114:8000/play/a0gf/index.m3u8
+#EXTINF:-1,HBO
+http://190.108.85.114:8000/play/a0ae/index.m3u8
+#EXTINF:-1,HBO 2
+http://190.108.85.114:8000/play/a08z/index.m3u8
+#EXTINF:-1,HBO Family
+http://190.108.85.114:8000/play/a092/index.m3u8
+#EXTINF:-1,HBO Plus
+http://190.108.85.114:8000/play/a090/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://190.108.85.114:8000/play/a091/index.m3u8
+#EXTINF:-1,History Channel
+http://190.108.85.114:8000/play/a087/index.m3u8
+#EXTINF:-1,HomeandHealth
+http://190.108.85.114:8000/play/a0a0/index.m3u8
+#EXTINF:-1,I-Sat
+http://190.108.85.114:8000/play/a08a/index.m3u8
+#EXTINF:-1,Latina cla
+http://190.108.85.114:8000/play/a0a1/index.m3u8
+#EXTINF:-1,Lifetime
+http://190.108.85.114:8000/play/a08o/index.m3u8
+#EXTINF:-1,MTV
+http://190.108.85.114:8000/play/a08b/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://190.108.85.114:8000/play/a0gv/index.m3u8
+#EXTINF:-1,Nat Geo
+http://190.108.85.114:8000/play/a086/index.m3u8
+#EXTINF:-1,Nick Jr
+http://190.108.85.114:8000/play/a0ar/index.m3u8
+#E
