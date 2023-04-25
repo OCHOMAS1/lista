@@ -46,6 +46,8 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29295
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/38678
 #EXTINF:-1, FX
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/172268
+#EXTINF:-1,Space
+http://170.83.242.155:5350/play/a005
 #EXTINF:-1, I Sat
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148593
 #EXTINF:-1, Studio Universal
@@ -54,6 +56,8 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280367
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/49316
 #EXTINF:-1, TCM
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/49314
+#EXTINF:-1,TNT
+http://170.83.242.155:5350/play/a03b
 #EXTINF:-1, TNT Series
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3109
 #EXTINF:-1, Volver
@@ -154,8 +158,6 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5802
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5803
 #EXTINF:-1,LA: TCM
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3085
-#EXTINF:-1,TNT
-http://170.83.242.155:5350/play/a03
 #EXTINF:-1,LA: TNT Series
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/285147
 #EXTINF:-1,LA: Universal Cinema
@@ -228,4 +230,6 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/81096
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1140
 #EXTINF:-1,ES: MOVISTAR Series 2
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1139
+#EXTINF:-1,Venus
+http://170.83.242.155:5350/play/a00z
 
